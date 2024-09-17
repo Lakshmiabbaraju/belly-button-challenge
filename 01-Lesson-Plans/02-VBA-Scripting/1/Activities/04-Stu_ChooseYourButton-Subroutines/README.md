@@ -4,7 +4,7 @@ In this activity, you’ll get to practice creating subroutines that can be trig
 
 ## Instructions
 
-* Examine the Excel file and create two buttons.
+* Create an Excel file with two buttons.
 
 * For each button, create a different VBA subroutine that will trigger a different pop-up message when clicked.
 
