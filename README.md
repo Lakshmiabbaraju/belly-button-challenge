@@ -35,4 +35,3 @@ Once you load the project in your browser, you will see a dropdown menu populate
 - **Metadata**: Displays the individual's demographic information (age, ethnicity, etc.).
 - **Interactive Dashboard**: The visualizations update when a new sample is selected from the dropdown.
 
->>>>>>> 6065a2d42b743653d1cfb924deb996a6de0a89fe
